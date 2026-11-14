@@ -1,0 +1,9 @@
+source,line_no,reason
+usage.csv,902,Usage date outside subscriber billing cycle
+usage.csv,903,Duplicate usage row for subscriber and date
+usage.csv,341,Usage rejected: subscriber is suspended
+usage.csv,342,Usage rejected: subscriber is suspended
+usage.csv,343,Usage rejected: subscriber is suspended
+usage.csv,344,Usage rejected: subscriber is suspended
+usage.csv,345,Usage rejected: subscriber is suspended
+commands.txt,17,Unknown subscriber SUB-999

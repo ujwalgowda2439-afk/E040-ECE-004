@@ -1,0 +1,5 @@
+plan_id,plan_name,speed_mbps,data_cap_gb,price_rs
+PLN-01,Basic 50,50,200,499.00
+PLN-02,Standard 100,100,500,799.00
+PLN-03,Pro 200,200,1000,1099.00
+PLN-04,Ultra 300,300,2000,1499.00

@@ -1,0 +1,26 @@
+ECE-004 SAMPLE RUN — VALIDATION REPORT
+=====================================
+Execution: SUCCESS
+Runtime: Python 3.10+ (standard library only)
+
+Generated outputs:
+- bills.csv: 30 subscriber rows
+- daily_status.csv: 4 STATUS command rows
+- errors.csv: 8 rejected rows/commands
+
+Expected planted validation:
+- Usage line 902: outside-cycle row rejected.
+- Usage line 903: duplicate row rejected.
+- Usage lines 341–345: five suspended usage rows rejected for SUB-012.
+- commands.txt line 17: unknown subscriber SUB-999 rejected.
+- SUB-003: cumulative usage is exactly 200.00 GB at end of Oct 20; Oct 21 status remains FULL_SPEED at 50 Mbps; Oct 22 status is THROTTLED at 2 Mbps.
+- SUB-007 upgrade proration: Rs 600.00.
+- SUB-008 upgrade proration: Rs 10.00.
+- SUB-009 upgrade proration: Rs 350.00.
+- SUB-010: two top-ups, Rs 298.00.
+- SUB-012: 5 suspended days; service resumes on Oct 15.
+- SUB-013 late fee: Rs 100.00.
+- SUB-016 late fee: Rs 0.00.
+- SUB-014 downgrade is deferred to PLN-01; SUB-015 downgrade is deferred to PLN-02.
+
+Automated tests: 8 passed, 0 failed.
