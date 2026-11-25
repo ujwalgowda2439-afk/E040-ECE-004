@@ -32,3 +32,8 @@ python -m unittest -v test_engine.py
 - `output/` — generated evaluation-format CSVs
 
 See `DESIGN.md` for business-rule definitions and assumptions that are not completely specified by the brief.
+## Project Demo Video
+
+**Five-Minute Project Demonstration – ECE-004**
+
+[Watch our Project Demo]https://drive.google.com/file/d/1tevui6WRHDfTmSVKobMNvW5guxOqKdbb/view?usp=drivesdk
