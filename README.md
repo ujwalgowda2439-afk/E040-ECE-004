@@ -36,4 +36,4 @@ See `DESIGN.md` for business-rule definitions and assumptions that are not compl
 
 **Five-Minute Project Demonstration – ECE-004**
 
-[Watch our Project Demo]https://drive.google.com/file/d/1tevui6WRHDfTmSVKobMNvW5guxOqKdbb/view?usp=drivesdk
+[Watch our Project Demo](https://drive.google.com/file/d/1tevui6WRHDfTmSVKobMNvW5guxOqKdbb/view?usp=drivesdk)
